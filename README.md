@@ -9,7 +9,6 @@ SPA - Playlist
 * CSS3 media queries and advanced selectors 
 * Dynamic page layouts 
 * Bootstrap  & Font Awesome
-* 
 
 ### JavaScript:
 
